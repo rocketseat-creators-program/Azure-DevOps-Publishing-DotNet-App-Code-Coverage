@@ -19,9 +19,6 @@ Nesta aula irei mostrar como criar um fluxo de CI com publicação automática d
 - Azure DevOps:
 https://dev.azure.com/
 
-- Form de Solicitação de Minutos Frees no Azure DevOps:
-https://625cadf64c36c7535768d809.mockapi.io/api/movies
-
 ## Expert
 
 | [<img src="https://github.com/wilsonneto-dev.png" width="75px;"/>][1] |
