@@ -1,26 +1,20 @@
-<img src="https://storage.googleapis.com/golden-wind/experts-club/capa-github.svg" />
+![image](https://user-images.githubusercontent.com/20674439/184565904-26faf539-80d1-4faf-80cc-a1a05c2a0475.png)
 
-# Criando pipelines de CI e CD de uma aplicação Next.JS com Azure DevOps e Azure Web App
 
-Ao final desta aula teremos um fluxo completo de CI/CD de maneira profissional e pronto para produção de uma aplicação Next.js, com pipelines do Azure DevOps e implantação em um Azure Web App. Apresentado por [Wilson Neto][1].
+# Publicando o code coverage de uma aplicação .Net no Azure DevOps
+
+Ao final desta aula teremos um fluxo de CI com publicação dos dados de code coverage que podem ser visualizados através do próprio dashboard de pipelines do Azure DevOps. Apresentado por [Wilson Neto][1].
 
 ## Instalação
 
-1. Basta baixar usando <br />`git clone https://github.com/wilsonneto-dev/Azure-DevOps-Pipelines-Nextjs-To-Azure-22-04-2022.git`
-2. Instalar as dependências <br />`npm i`
-3. Para executar executar <br />`npm run dev`
+1. Basta baixar usando <br />`git clone https://github.com/wilsonneto-dev/Azure-DevOps-Publishing-DotNet-App-Code-Coverage.git`
+2. Para executar os testes basta rodar o comand <br />`dotnet test`
 
 ## Sobre a Aula
 
-Nesta aula irei mostrar como criar um fluxo de Continous Integration e Continous Deployment (CI/CD) de uma aplicação Next.js utilizando Azure DevOps para o pipeline e utilizando Azure Web App para implantação da aplicação.
+Nesta aula irei mostrar como criar um fluxo de CI com publicação automática do code coverage para conseguir acompnhar de maneira visual a qualidade de cobertura de seus testes através do próprio Azure DevOps, com suas features e tasks nativas.
 
 ## Link e informações de apoio
-
-- Link Azure:<br />
-https://portal.azure.com/
-
-- Links mock api utilizada no exemmplo:<br />
-https://material-ui.com/store/items/devias-kit/
 
 - Azure DevOps:
 https://dev.azure.com/
@@ -35,4 +29,4 @@ https://625cadf64c36c7535768d809.mockapi.io/api/movies
 |[Creator][1]|
 
 
-[1]: https://seusite.com.br
+[1]: https://wilsonneto.com.br
