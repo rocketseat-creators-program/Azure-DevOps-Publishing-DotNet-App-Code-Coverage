@@ -1,5 +1,4 @@
-![image](https://user-images.githubusercontent.com/20674439/184565904-26faf539-80d1-4faf-80cc-a1a05c2a0475.png)
-
+<img src="https://drive.google.com/uc?id=1XPWLjUo2-j8iGw07ALcxu7oqJ3nkl2Ho" alt="Rocketseat+"/>
 
 # Publicando o code coverage de uma aplicação .Net no Azure DevOps
 
